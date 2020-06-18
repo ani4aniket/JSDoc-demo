@@ -1,5 +1,10 @@
 // @ts-check
 const { add, subtract, multiply, divide } = require("./calculator");
+/**
+ * @file index.js is the root file for this example app.
+ * @author Aniket Kumar
+ * @see <a href="https://github.com/ani4aniket">Github</a>
+ */
 
 /**
  * Student Name
